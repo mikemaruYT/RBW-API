@@ -19,3 +19,16 @@
 # `/rbw start`
 このコマンドを実行すると、試合が終わるまでの時間を計測されます。  
 試合が終了すると、Hypixelのタイトル表示とスコアボードに基づいて、試合時間とKill数、Final Kill数、Bed gone、試合時間、日付、チーム構成をメモリに保存します。  
+***試合中の誰かがNICKしていた場合はNICKNAMEが刻まれます。***  
+
+# `/rbw stats`
+このコマンドを実行すると、いままでの試合から以下の情報をチャットに表示します。  
+`KDR`  
+`FKDR`  
+`WDR`  
+`BB/BG DR`
+
+# `/rbw reset`
+このコマンドを実行すると、メモリの中に入っているすべての情報が削除されます。  
+***このコマンドは危険です!十分に気を付けて扱ってください。***  
+実行した後に、確認のためのメッセージが出ます。`Are you sure you want to delete the memory? To confirm, please run `/rbw confirm` within 10 seconds.`
