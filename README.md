@@ -11,10 +11,9 @@
 
   # `/rbw help`
   このコマンドを実行すると、Helpが表示されます。  
-  `[RBW] /rbw help : show helps(this command)  
-         /rbw start : start game call  
-         /rbw lose : lose a game call  
-         /rbw win : win a game call  
-         /rbw stats : show your stats  
-         /rbw reset : reset all memory  
-         `
+  `[RBW] /rbw help : show helps(this command)`  
+  `      /rbw start : start game call`  
+  `      /rbw lose : lose a game call`  
+  `      /rbw win : win a game call`  
+  `      /rbw stats : show your stats`  
+  `      /rbw reset : reset all memory`  
