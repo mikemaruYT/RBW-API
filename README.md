@@ -1,9 +1,9 @@
   # RBW-API
   このフォージのモッドは、Ranked Bedwarsを快適にプレイするためのAPI MODです。
 
-  RBWサーバー:
-  [Ranked Bedwars Discord server](https://discord.com/invite/rankedbw)
-  [JP Ranked Bedwars Discord server](https://discord.com/invite/CMbFRVqS8)
+  RBWサーバー:  
+  [Ranked Bedwars Discord server](https://discord.com/invite/rankedbw)  
+  [JP Ranked Bedwars Discord server](https://discord.com/invite/CMbFRVqS8)  
 
   ## Commands
   このMODのコマンド一覧です。
